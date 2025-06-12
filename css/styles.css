@@ -185,9 +185,11 @@ body {
   margin-bottom: 2rem;
   font-size: 4rem;
   color: #0A1D3A;
+  background-color: #FFFFFFB3;
   text-align: center;
   padding: 1rem 2rem;
   font-weight: bold;
+  border-radius: 0.188rem; 
 }
 
 .banner-container-historia {
